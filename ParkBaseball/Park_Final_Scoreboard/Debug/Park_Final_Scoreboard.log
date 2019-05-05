@@ -1,0 +1,73 @@
+﻿  Park_Final_Scoreboard.cpp
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(812): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(813): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(814): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(816): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(817): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(818): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(858): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(859): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(860): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(876): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(877): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(878): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(1154): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(1155): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+d:\cscpp\projects\parkbaseball\park_final_scoreboard\park_final_scoreboard.cpp(2881): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Park_Final_Scoreboard.vcxproj -> D:\CSCPP\Projects\ParkBaseball\Debug\Park_Final_Scoreboard.exe

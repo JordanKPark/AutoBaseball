@@ -1,0 +1,27 @@
+﻿Build started 5/10/2016 10:38:33 AM.
+     1>Project "F:\Park_Final_Scoreboard\Park_Final_Scoreboard\Park_Final_Scoreboard.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="14.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt Park_Final_Scoreboard.cpp
+         Park_Final_Scoreboard.cpp
+     1>Park_Final_Scoreboard.cpp(583): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(585): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(586): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(588): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(589): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(590): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(631): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(632): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(633): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(645): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(646): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(647): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Park_Final_Scoreboard.cpp(1909): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Park_Final_Scoreboard\x64\Debug\Park_Final_Scoreboard.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Park_Final_Scoreboard\x64\Debug\Park_Final_Scoreboard.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Park_Final_Scoreboard\x64\Debug\Park_Final_Scoreboard.lib" /MACHINE:X64 x64\Debug\Park_Final_Scoreboard.obj
+         Park_Final_Scoreboard.vcxproj -> F:\Park_Final_Scoreboard\x64\Debug\Park_Final_Scoreboard.exe
+     1>Done Building Project "F:\Park_Final_Scoreboard\Park_Final_Scoreboard\Park_Final_Scoreboard.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.21
